@@ -1,6 +1,6 @@
 # game_of_life
 
-This project is a simulator for the mathematical game named "game of life". The simulator fitures many adjustable settings like grid size, game speed, number of colors, etc...
+This project is a simulator for the mathematical game named "game of life". The project is written in Python and uses the pygame module for the game interface. The simulator fitures many adjustable settings like grid size, game speed, number of colors, etc...
 
 The simulator supports the multi-color version of the game with up to 8 colors.
 
