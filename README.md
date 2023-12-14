@@ -13,6 +13,7 @@ To run the game:
 > pip install pygame.
 
       For more information on pygame installation visit: https://www.pygame.org/wiki/GettingStarted.
+
       
 4. Run the main.py file.
 5. Once the settings window opens set your desired settings and click play (music on is recomended).
