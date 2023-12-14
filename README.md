@@ -10,11 +10,11 @@ To run the game:
 
 1. Download the entire folder (with the notes folder and the images included).
 2. Install the pygame module by running the following command in the command prompt:
-   pip install pygame.
+> pip install pygame.
    For more information on pygame installation visit: https://www.pygame.org/wiki/GettingStarted.
-3. Run the main.py file.
-4. Once the settings window opens set your desired settings and click play (music on is recomended).
-5. Once the game window opens press the space button to start.
+4. Run the main.py file.
+5. Once the settings window opens set your desired settings and click play (music on is recomended).
+6. Once the game window opens press the space button to start.
 
 Game controlers:
 
